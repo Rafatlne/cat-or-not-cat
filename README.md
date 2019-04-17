@@ -1,1 +1,1 @@
-# cat-or-not-cat
+Classification using logistic regression
